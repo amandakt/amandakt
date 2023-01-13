@@ -1,8 +1,8 @@
 # Hi there 👋
 
-My name is Amanda, and I am an electrical engineering univeristy student who's interested in tech, electronic circuits, and design! 
+**My name is Amanda**, and I am an electrical engineering univeristy student who's interested in tech, electronic circuits, and design! 
 
-</br></br>
+</br>
 
 🔭 I am currently working on:
 
@@ -22,7 +22,11 @@ My name is Amanda, and I am an electrical engineering univeristy student who's i
 
 email: [akytong70@gmail.com](akytong70@gmail.com)
 
-</br>
+
+
+
+
+
 
 <!--
 **amandakt/amandakt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
