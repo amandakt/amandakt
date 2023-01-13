@@ -2,9 +2,13 @@
 
 My name is Amanda, and I am an electrical engineering univeristy student who's interested in tech, electronic circuits, and design! 
 
+
+
 🔭 I am currently working on:
 
 - my personal website
+
+
 
 🌱 I am currently learning:
 
