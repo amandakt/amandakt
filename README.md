@@ -20,7 +20,7 @@
 
 📫 How to reach me: 
 
-email: [akytong70@gmail.com](akytong70@gmail.com)
+- email: [akytong70@gmail.com](akytong70@gmail.com)
 
 
 
