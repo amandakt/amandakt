@@ -8,7 +8,7 @@ My name is Amanda, and I am an electrical engineering univeristy student who's i
 
 - my personal website
 
-
+</br>
 
 🌱 I am currently learning:
 
@@ -16,12 +16,13 @@ My name is Amanda, and I am an electrical engineering univeristy student who's i
 - AutoCAD Electrical 
 - intermediate HTML/CSS on how to implement elegant transitions, create new layouts and serve users with dynamic needs
 
+</br>
 
 📫 How to reach me: 
 
 email: [akytong70@gmail.com](akytong70@gmail.com)
 
-
+</br>
 
 <!--
 **amandakt/amandakt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
