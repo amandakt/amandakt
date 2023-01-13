@@ -15,7 +15,7 @@ My name is Amanda, and I am an electrical engineering univeristy student who's i
 
 📫 How to reach me: 
 
-[email](akytong70@gmail.com)
+email: [akytong70@gmail.com](akytong70@gmail.com)
 
 
 
