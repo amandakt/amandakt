@@ -1,8 +1,5 @@
 # Hi there 👋
 
-<!--
-**amandakt/amandakt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My name is Amanda, and I am an electrical engineering univeristy student who's interested in tech, electronic circuits, and design! 
 
 🔭 I am currently working on:
@@ -20,6 +17,10 @@ My name is Amanda, and I am an electrical engineering univeristy student who's i
 
 [email](akytong70@gmail.com)
 
+
+
+<!--
+**amandakt/amandakt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
