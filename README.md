@@ -15,6 +15,7 @@
 - AutoCAD drafting and drawing 2D and 3D designs
 - AutoCAD Electrical 
 - intermediate HTML/CSS on how to implement elegant transitions, create new layouts and serve users with dynamic needs
+- soldering
 
 </br>
 
