@@ -1,6 +1,6 @@
 # Hi there 👋
 
-**My name is Amanda**, and I am an electrical engineering univeristy student who's interested in tech, electronic circuits, and design! 
+**My name is Amanda**, and I am an electrical engineering university student who's interested in tech, electronic circuits, and design! 
 
 </br>
 
@@ -14,7 +14,7 @@
 
 - AutoCAD drafting and drawing 2D and 3D designs
 - AutoCAD Electrical 
-- intermediate HTML/CSS on how to implement elegant transitions, create new layouts and serve users with dynamic needs
+- intermediate HTML/CSS
 - soldering
 
 </br>
